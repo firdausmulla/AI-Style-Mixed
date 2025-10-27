@@ -33,5 +33,5 @@ The below is the SS of my web page.
     * Copy your authtoken.
 3.  **Run the Cells:** In the Colab notebook, run the cells in order from top to bottom.
     * When you run **Cell 2**, it will ask for your `ngrok` authtoken. Paste it in and press Enter.
-4.  **When you run the final, it will load the models, and print a URL that looks something like `https://[some-id].ngrok.io`.
+4.  When you run the final cell, it will load the models, and print a URL that looks something like `https://[some-id].ngrok.io`.
 5.  **Click that URL** to open your live web application in a new tab!
