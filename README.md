@@ -2,7 +2,7 @@
 I have created a GenAI based web application that uses machine learning model. This application is completely made using Google Colab notebook. It is used to apply the artistic style of one image to another.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/firdausmulla/AI-Style-Mixed/blob/main/AI_Artist.ipynb
+[https://colab.research.google.com/github/firdausmulla/AI-Style-Mixed/blob/main/AI_Artist.ipynb](https://colab.research.google.com/github/firdausmulla/AI-Style-Mixed/blob/main/AI_Artist.ipynb)
 )
 
 *(Click the "Open in Colab" badge above to run the project yourself!)*
